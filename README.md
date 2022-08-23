@@ -1,2 +1,2 @@
-# github-empty-project
-The github empty tempate
+# Election.Analytic.System.Json.Maps
+The Election Analytic System Json Maps
